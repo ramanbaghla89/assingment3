@@ -79,5 +79,5 @@ print(s.isdigit())
 #Q.3- Replace the word "World" with your name in the string "Hello World".
 
 s=s.replace('world','raman')
-
+print(s)
 
